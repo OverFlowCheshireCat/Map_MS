@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>동의과학대학교</string>
+		<key>address</key>
+		<string>부산광역시 부산진구 양정동 양지로 54</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>부산시민공원</string>
+		<key>address</key>
+		<string>부산광역시 부산진구 범전동 시민공원로 73</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>롯데호텔 부산본점</string>
+		<key>address</key>
+		<string>부산광역시 부산진구 부전동 가야대로 772</string>
+	</dict>
+</array>
+</plist>
